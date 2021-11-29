@@ -10,6 +10,10 @@
     to deal with it yet!
   */
   margin-bottom: 32px;
+  width: 50%;
+  height: 150px;
+  display: block;
+  overflow: auto;
 }
 
 .title {
